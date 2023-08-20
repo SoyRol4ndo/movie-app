@@ -10,7 +10,7 @@ Esta aplicación web muestra las películas más populares según `(https://deve
 - [Framer Motion](https://www.framer.com/motion/)
 - [next-themes](https://github.com/pacocoursey/next-themes)
 
-### Use the template with create-next-app
+### Use dynamically
 
 To create a new project based on this template using `npm git clone`, run the following command:
 
