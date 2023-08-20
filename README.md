@@ -1,6 +1,6 @@
 # Movie-app
 
-Esta aplicación web muestra las películas más populares según `(https://developers.themoviedb.org/)`, y haciendo click sobre cualquier post y se pueden obtener los datos específicos de dicha película. Para regresar a la ventana de `populares` vasta con dar click en cualquier lado de la `barra` superior de la aplicación.
+Esta aplicación web muestra las películas más populares según `(https://developers.themoviedb.org/)`, y haciendo click sobre cualquier post se pueden obtener los datos específicos de dicha película. Para regresar a la ventana de `populares` vasta con dar click en cualquier lado de la `barra` superior de la aplicación.
 ## Technologies Used
 
 - [Next.js 13](https://nextjs.org/docs/getting-started)
