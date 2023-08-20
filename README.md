@@ -24,13 +24,12 @@ npm git clone https://github.com/SoyRol4ndo/movie-app.git
 npm install
 ```
 
-### Login In themoviedb.org
-Hacer login en 
+### Login themoviedb.org
 
 ```bash
 https://developers.themoviedb.org/
 ```
-y solicitar una Clave de la API para reemplazar en `next.config.js`
+and request an API Key to replace in `next.config.js`
 
 ### Run the development server
 
